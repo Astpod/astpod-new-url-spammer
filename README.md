@@ -10,3 +10,5 @@
 8) Tokenini girmiş olduğunuz bot sunucuda ekliyse çalışmaya başlayacaktır.
 
 Sorun Olursa: Astpod ★#2019
+
+Stara basın aq

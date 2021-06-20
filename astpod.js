@@ -94,4 +94,4 @@ client.on('message', async (message) => {
     };
 });
 
-client.login("").then(x => console.log("Tokenim kalktı")).catch(e => console.error("Tokenim indi"))
+client.login(cfg.token).then(x => console.log("Tokenim kalktı")).catch(e => console.error("Tokenim indi"))

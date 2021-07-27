@@ -9,6 +9,6 @@
 7) Klasörün içinde bulunan `baslat.bat` uzantılı _batch_ dosyasını açın.
 8) Tokenini girmiş olduğunuz bot sunucuda ekliyse çalışmaya başlayacaktır.
 
-Sorun Olursa: Astpod ★#2019
+Sorun Olursa: Astpod#2019
 
 Stara basın aq
